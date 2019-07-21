@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381824800814",
+    "firebase_url": "https://login-register-app-94ddd.firebaseio.com",
+    "project_id": "login-register-app-94ddd",
+    "storage_bucket": "login-register-app-94ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381824800814:android:1070d8871b60d084",
+        "android_client_info": {
+          "package_name": "com.dicoding.picodiploma.loginregisteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381824800814-v4n16m8s6qst6k79jl2iofmc6eedpk5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUFy01oDyeM8JxQR7nvzd9blMBwXJbH20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381824800814-v4n16m8s6qst6k79jl2iofmc6eedpk5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
